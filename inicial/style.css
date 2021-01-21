@@ -24,7 +24,8 @@ header .container {
   align-items: center;
   justify-content: space-between;
 
-  width: 980px;
+  width: 100px;
+  max-width: 980px;
   margin: auto;
 }
 
